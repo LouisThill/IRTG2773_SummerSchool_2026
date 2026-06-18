@@ -2,7 +2,7 @@
 
 [My profile & Contact Info](https://github.com/louisthill/louisthill)
 
-Here you can find some additional info and material related to [my poster (PDF)](./31_Thill_DFGevaluation_.pdf) presented at the **IRTG2773 Summer School** organized by the  in **Dresden🏠**, Germany in **2026**. The material presented is part of project P5 from the [IRTG 2773: “Risks and Pathomechanisms of Affective Disorders”](https://transcampus.eu/project/mental-health/irtg2773/) and B03 from the [TRR265:"Losing and regaining control over drug intake"](https://www.trr265.org/en/sfb-trr-265). The studies included were pre-registered at [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1). 
+Here you can find some additional info and material related to [my poster (PDF)](./31_Thill_DFGevaluation_.pdf) presented at the **IRTG2773 Summer School** organized  in **Dresden🏠**, Germany in **2026**. The material presented is part of project P5 from the [IRTG 2773: “Risks and Pathomechanisms of Affective Disorders”](https://transcampus.eu/project/mental-health/irtg2773/) and B03 from the [TRR265:"Losing and regaining control over drug intake"](https://www.trr265.org/en/sfb-trr-265). The studies included were pre-registered at [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1). 
 
 ## 🗐References
 1. Cartoni, E. et al. (2016). Appetitive Pavlovian-instrumental transfer: A review. *Neuroscience Biobehavioral Reviews*, 71, 829–848. **https://doi.org/10.1016/j.neubiorev.2016.09.020**
